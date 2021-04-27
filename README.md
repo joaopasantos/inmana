@@ -1,19 +1,37 @@
 # Inmana
 
-To start your Phoenix server:
+## Objetivo
+Essa aplicação foi o projeto desenvolvido na trilha Elixir da Next Level Week #05.
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+## Considerações Finais
+O desenvolvimento dessa aplicação foi o meu primeiro contato com a linguagem Elixir e com o paradigma de Programação Funcional. Foi um pouco difícil me introduzir a algo que sequer tinha visto antes, mas consegui aprender um pouco mais sobre ambos.
+A NLW conseguiu despertar um interesse para estudar mais os dois, e espero que eu consiga ampliar meu conhecimento utilizando a pitadinha que foi essa semana como base.
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+## Fluxo dos Dias
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+### Dia 1
+  - Introdução ao Elixir e ao paradigma Funcional;
+    - Módulos
+    - Pattern Matching
+    - Pipe Operator
+  - Rotas e Controllers
 
-## Learn more
+### Dia 2
+  - Migrations
+  - Schemas
+  - Views
+  - Facade
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+### Dia 3
+  - Queries
+  - Módulo Enumerable
+  - Envio de E-mails utilizando o [Bamboo](https://github.com/thoughtbot/bamboo)
+
+### Dia 4
+  - Paralelismo e Concorrência de processos
+    - Processos genéricos
+    - Genservers
+    - Supervisors
+
+### Dia 5
+  - Testes em Elixir
