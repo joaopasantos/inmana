@@ -2,6 +2,13 @@
 
 ## Objetivo
 Essa aplicação foi o projeto desenvolvido na trilha Elixir da Next Level Week #05.
+> ### 🍴 Inmana
+> Prevenção de perdas com gerenciamento inteligente da data de validade
+> - Podem ser cadastrados restaurantes e suprimentos
+> - Deve ser possível visualizar informações de um suprimento
+> - Deve ser gerada uma relação de itens à vencer toda semana para cada um dos restaurantes
+> - A relação de itens deve ser enviada para o e-mail do restaurante 
+
 
 ## Considerações Finais
 O desenvolvimento dessa aplicação foi o meu primeiro contato com a linguagem Elixir e com o paradigma de Programação Funcional. Foi um pouco difícil me introduzir a algo que sequer tinha visto antes, mas consegui aprender um pouco mais sobre ambos.
